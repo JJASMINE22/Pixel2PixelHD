@@ -29,8 +29,8 @@
 6. 数据与标签路径、训练参数等均位于config.py  
 
 ## 效果展示
-![image]()  
-![image]()  
+![image](https://github.com/JJASMINE22/Pixel2PixelHD/blob/main/result/result3.jpg)  
+![image](https://github.com/JJASMINE22/Pixel2PixelHD/blob/main/result/result2.jpg)  
 
 ## 数据下载    
 Cityscapes  
