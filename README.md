@@ -41,4 +41,4 @@ Cityscapes
 运行train.py  
 
 ## 参考文献  
-Chrome-extension://dnkjinhmoohpidjdgehjbglmgbngnknl/pdf.js/web/viewer.html?file=https%3A%2F%2Farxiv.org%2Fpdf%2F1711.11585.pdf 
+https://arxiv.org/abs/1711.11585
